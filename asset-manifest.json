@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/testimonials-slider/static/css/main.05a43013.chunk.css",
+    "main.js": "/testimonials-slider/static/js/main.3f4f9c4f.chunk.js",
+    "main.js.map": "/testimonials-slider/static/js/main.3f4f9c4f.chunk.js.map",
+    "runtime-main.js": "/testimonials-slider/static/js/runtime-main.b43ccc96.js",
+    "runtime-main.js.map": "/testimonials-slider/static/js/runtime-main.b43ccc96.js.map",
+    "static/js/2.25c5fc7b.chunk.js": "/testimonials-slider/static/js/2.25c5fc7b.chunk.js",
+    "static/js/2.25c5fc7b.chunk.js.map": "/testimonials-slider/static/js/2.25c5fc7b.chunk.js.map",
+    "index.html": "/testimonials-slider/index.html",
+    "static/css/main.05a43013.chunk.css.map": "/testimonials-slider/static/css/main.05a43013.chunk.css.map",
+    "static/js/2.25c5fc7b.chunk.js.LICENSE.txt": "/testimonials-slider/static/js/2.25c5fc7b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b43ccc96.js",
+    "static/js/2.25c5fc7b.chunk.js",
+    "static/css/main.05a43013.chunk.css",
+    "static/js/main.3f4f9c4f.chunk.js"
+  ]
+}
